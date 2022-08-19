@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RupeshSRH
 - 👀 I am looking for Mod Dev
-- 💞️ LAnguages Known are C++ and Python
+- 💞️ Languages Known are C++ and Python
 - 📫 How to reach me rupeshsrh@proton.me
