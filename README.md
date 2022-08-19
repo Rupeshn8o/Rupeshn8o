@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RupeshSRH
-- 👀 I’m interested in Java
-- 💞️ I’m looking to collaborate on Create mods for Minecraft Java
+- 👀 I am looking for Mod Dev
+- 💞️ LAnguages Known are C++ and Python
 - 📫 How to reach me rupeshsrh@proton.me
